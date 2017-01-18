@@ -1,0 +1,23 @@
+{
+  "name": "@whitewater/test-scope",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiranshashiny/test-scope.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiranshashiny/test-scope/issues"
+  },
+  "homepage": "https://github.com/kiranshashiny/test-scope#readme",
+  "dependencies": {
+    "scope-it": "^1.1.0"
+  },
+  "devDependencies": {}
+}
